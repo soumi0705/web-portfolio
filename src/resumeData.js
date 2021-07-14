@@ -77,24 +77,24 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"./images/portfolio/girl.jpg"
+        "name":"Safe Home",
+        "description":"Safe Home is designed to conveniently manage and monitor house appliances remotely with addition security feautures, to save time and to use resources effectively.",
+        "imgurl":"./images/portfolio/watch-dogs.jpg"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"./images/portfolio/coffee.jpg"
+        "name":"Edlance",
+        "description":"Ask your doubts. solve other doubts. and ...Stonks! earn Ethers (ETH) A platform to ask, solve and earn money",
+        "imgurl":"./images/portfolio/Books.jpg"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"./images/portfolio/judah.jpg"
+        "name":"Sanskriti",
+        "description":"Sanskriti (e-commerce site) is built on ETH network allowing local businesses to sell and buy products instanty without going through long process of verification (thanks to our Fast KYC process).",  
+        "imgurl":"./images/portfolio/sanskriti.jpg"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"./images/portfolio/origami.jpg"
+        "name":"M Terrain Designs LPP. Portfolio ",
+        "description":"Informative website for M Terrain Designs LPP.",
+        "imgurl":"./images/portfolio/mterraindesigns.jpg"
       }
     ],
     "testimonials":[
