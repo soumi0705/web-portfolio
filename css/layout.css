@@ -329,76 +329,52 @@ ul#nav li.current a { color: #F06000; }
 
 .reactjs {
   	width: 80%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
+  	-moz-animation: reactjs 2s ease;
+  	-webkit-animation: reactjs 2s ease;
 }
 .nodejs {
   	width: 75%;
-  	-moz-animation: python 2s ease;
-  	-webkit-animation: python 2s ease;
+  	-moz-animation: nodejs 2s ease;
+  	-webkit-animation: nodejs 2s ease;
 }
 
 .java {
   	width: 80%;
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
+  	-moz-animation: java 2s ease;
+  	-webkit-animation: java 2s ease;
 }
 .solidity {
   	width: 75%;
-  	-moz-animation: html5 2s ease;
-  	-webkit-animation: html5 2s ease;
+  	-moz-animation: solidity 2s ease;
+  	-webkit-animation: solidity 2s ease;
 }
 .postgresql {
   	width: 50%;
-  	-moz-animation: javascript 2s ease;
-  	-webkit-animation: javascript 2s ease;
+  	-moz-animation: postgresql 2s ease;
+  	-webkit-animation: postgresql 2s ease;
 }
 
-@-moz-keyframes photoshop {
-  0%   { width: 0px;  }
-  100% { width: 40%;  }
-}
-@-moz-keyframes python {
-  0%   { width: 0px;  }
-  100% { width: 75%;  }
-}
-@-moz-keyframes css {
+@-moz-keyframes reactjs {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-moz-keyframes html5 {
+@-moz-keyframes nodejs {
   0%   { width: 0px;  }
   100% { width: 75%;  }
 }
-@-moz-keyframes javascript {
+@-moz-keyframes java {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-moz-keyframes solidity {
+  0%   { width: 0px;  }
+  100% { width: 75%;  }
+}
+@-moz-keyframes postgresql {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
 
-@-webkit-keyframes photoshop {
-  0%   { width: 0px;  }
-  100% { width: 40%;  }
-}
-@-webkit-keyframes python {
-  0%   { width: 0px;  }
-  100% { width: 75%;  }
-}
-@-webkit-keyframes wordpress {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
-}
-@-webkit-keyframes css {
-  0%   { width: 0px;  }
-  100% { width: 80%;  }
-}
-@-webkit-keyframes html5 {
-  0%   { width: 0px;  }
-  100% { width: 75%;  }
-}
-@-webkit-keyframes javascript {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
-}
 
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section
