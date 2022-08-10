@@ -22,16 +22,16 @@ let resumeData = {
           "className":"fa fa-instagram instagram"
         }
       ],
-    "aboutme":"I am currently a final year student at Vellore Institute of Technology, Chennai and pursuing my B.Tech from here. I am a self taught Web Developer, currently diving deeper into Blockchain Devlopment with Solidity.",
+    "aboutme":"I am currently a Full Stack Web-Developer at Crystal Delta, Chennai. I am a self taught Web Developer, currently diving deeper into Blockchain Devlopment with Solidity.",
     "address":"Haryana, India",
     "website":"",
     "education":[
       {
         "UniversityName":"Vellore Institure of Technology, Chennai",
         "specialization":"B-Tech Computer Science and Engineering",
-        "MonthOfPassing":"Present",
-        "YearOfPassing":"",
-        "Achievements":"Current CGPA: 8.31"
+        "MonthOfPassing":"July",
+        "YearOfPassing":"2022",
+        "Achievements":"Current CGPA: 8.56"
       },
       {
         "UniversityName":"The Lawrence School, Sanawar",
@@ -42,6 +42,20 @@ let resumeData = {
       }
     ],
     "work":[
+      {
+        "CompanyName":"Crystal Delta",
+        "specialization":"Full Stack Developer",
+        "MonthOfLeaving":"Jul-Present",
+        "YearOfLeaving":"",
+        "Achievements":"Contributed to LTI development on Blackboard and Canvas. Working with ReactJS, NodeJS, APIs, PostgreSQL, Jest, Nock"
+      },
+      {
+        "CompanyName":"Crystal Delta",
+        "specialization":"Full Stack Intern Developer",
+        "MonthOfLeaving":"Aug - Jul",
+        "YearOfLeaving":"2022",
+        "Achievements":"Worked with ReactJS, NodeJS, PostgreSQL. Contributed to LTI development on Blackboard and Canvas using API calls."
+      },
       {
         "CompanyName":"Ericsson",
         "specialization":"Summer Internship",
@@ -60,41 +74,41 @@ let resumeData = {
     "skillsDescription":"These are some of my top skills",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"ReactJS"
       },
       {
-        "skillname":"CSS"
+        "skillname":"NodeJS"
       },
 	  {
-        "skillname":"Javascript"
+        "skillname":"PostgreSQL"
       },
       {
-        "skillname":"Python"
+        "skillname":"Solidity"
       },
       {
-        "skillname":"Adobe Photoshop"
+        "skillname":"Java"
       },
     ],
     "portfolio":[
       {
         "name":"Safe Home",
         "description":"Safe Home is designed to conveniently manage and monitor house appliances remotely with addition security feautures, to save time and to use resources effectively.",
-        "imgurl":"./images/portfolio/watch-dogs.jpg"
+        "imgurl":"watch-dogs.jpg"
       },
       {
         "name":"Edlance",
         "description":"Ask your doubts. solve other doubts. and ...Stonks! earn Ethers (ETH) A platform to ask, solve and earn money",
-        "imgurl":"./images/portfolio/Books.jpg"
+        "imgurl":"Books.jpg"
       },
       {
         "name":"Sanskriti",
         "description":"Sanskriti (e-commerce site) is built on ETH network allowing local businesses to sell and buy products instanty without going through long process of verification (thanks to our Fast KYC process).",  
-        "imgurl":"./images/portfolio/sanskriti.jpg"
+        "imgurl":"sanskriti.jpg"
       },
       {
         "name":"M Terrain Designs LPP. Portfolio ",
         "description":"Informative website for M Terrain Designs LPP.",
-        "imgurl":"./images/portfolio/mterraindesigns.jpg"
+        "imgurl":"mterraindesigns.jpg"
       }
     ],
     "testimonials":[

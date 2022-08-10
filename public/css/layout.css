@@ -327,28 +327,28 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.photoshop {
-  	width: 40%;
+.reactjs {
+  	width: 80%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
-.python {
+.nodejs {
   	width: 75%;
   	-moz-animation: python 2s ease;
   	-webkit-animation: python 2s ease;
 }
 
-.css {
+.java {
   	width: 80%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
-.html5 {
+.solidity {
   	width: 75%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
-.javascript {
+.postgresql {
   	width: 50%;
   	-moz-animation: javascript 2s ease;
   	-webkit-animation: javascript 2s ease;
@@ -998,3 +998,6 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 #go-top a:hover { background-color: #0F9095; }
 
+.dark {
+   background-color: #313131;
+}
